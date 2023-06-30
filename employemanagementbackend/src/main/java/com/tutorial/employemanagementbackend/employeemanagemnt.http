@@ -1,0 +1,8 @@
+DELETE http://localhost:8080/employee/1
+Content-Type: application/json
+
+{
+  "firstName": "jonah",
+  "lastName": "madinson",
+  "email": "jonah@@gmail.com"
+}
